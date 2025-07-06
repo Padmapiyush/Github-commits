@@ -32,4 +32,4 @@ const makeCommit = n => {
   });
 };
 
-makeCommit(1000);
+makeCommit(1380);
